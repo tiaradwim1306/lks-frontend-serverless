@@ -1,3 +1,3 @@
 # myapps
 
-this repository use by lks module 1
+this repository use by LKSN module 1
