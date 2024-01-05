@@ -1,3 +1,3 @@
-# myapps
+# FRONTEND
 
-this repository use by LKSN module 1
+This repository use by Frontend LKSN module 1,
